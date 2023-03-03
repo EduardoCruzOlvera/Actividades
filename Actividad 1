@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>Proyecto_1</title>
+<link rel="stylesheet" type="text/css" href="css/Proyecto_1.css">
+</head>
+<body>
+<div class="border"><p>
+<div class="Titulo"><h1>Eduardo Cruz Olvera</h1></div>
+<div class="subti"><h2>Mi rol es: Base de Datos </h2></div>
+<div class=ulti><h1>Datos:</h1></div>
+<div class="container">
+<ul class="lista">
+<li>Edad: 19 años</li>
+<li>Carrera:PTB en Informatica</li>
+<li>Semestre:Sexto</li>
+<li>Gustos: Futbol, Lucha libre, musica, videojuegos, bailar, etc.</li>
+<style>
+	.border{
+	color: #000000;
+	border-style: solid;
+	background-color: #ffffff;
+	padding-bottom:35%;
+}
+.Titulo{
+	color: #000000;
+	font-size: 150%;
+	text-oling: center;
+}
+div.subtitulo{
+	color: #000000;
+	font-size: 120%;
+	text-oling: center;
+}
+div.Ulti{
+	color: #000000;
+	font-size: 120%;
+	position: absolute;
+	width: 300px;
+	height: 10px;
+	top: 25%;
+	left: 30%;
+
+}
+div.container{
+	text-oling: right;
+}
+ul.lista{
+	position: absolute;
+	font-size: 25px;
+	display: inline-block;
+	text-oling: left;
+	width: 300px;
+	height: 10px;
+	top: 30%;
+	left: 50%;
+}
+</style>
+</ul></div>
+</p></div>
+</body>
+</html>
